@@ -29,7 +29,7 @@ github-page是一个免费的静态网站托管平台，由github提供，它具
 
 通过向导自动创建的项目类似这样http://pchou.github.io/pagetest/，在使用自定义域名前，你需要通过这样的链接访问项目主页。它是一个纯粹为项目推广准备的，因此并没有博客的结构，但是自定义模板的功能确实很不错。
 
-![](./images/1.jpg)
+![](../images/1.jpg)
 手动创建分支的方法，也很简单，可以参考Creating Project Pages manually
 个人主页
 
