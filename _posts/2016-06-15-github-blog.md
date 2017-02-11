@@ -1,7 +1,11 @@
 ---
 layout: post
 title:  "github-blog"
-description: 
+description: github-page是一个免费的静态网站托管平台，由github提供，它具有以下特点：
+    免空间费，免流量费
+    具有项目主页和个人主页两种选择
+    支持页面生成，可以使用jekyll来布局页面，使用markdown来书写正文
+    可以自定义域名
 width: large
 date:   2016-06-13 10:51:47 +0530
 categories: jekyll update
