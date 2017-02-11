@@ -1,11 +1,23 @@
+---
+layout: post
+title:  "github创建blog"
+width: large
+date:   2016-06-13 10:51:47 +0530
+categories: jekyll update
+img: 1.jpg
+categories: [one, two]
+color: 9E9D24
+author: lisang
+---
+
 github page
 github-page是一个免费的静态网站托管平台，由github提供，它具有以下特点：
-
+{% highlight ruby %}
     免空间费，免流量费
     具有项目主页和个人主页两种选择
     支持页面生成，可以使用jekyll来布局页面，使用markdown来书写正文
     可以自定义域名
-
+{% endhighlight %}
 项目主页
 
 项目主页的目的是为项目提供一个展示功能的网站，方便项目推广。但是也可以用来做个人博客。对于博客来说，博客的整个网站目录需要是项目仓库的gh-pages分支，而且gh-pages是个没有父分支的分支。通过https://pages.github.com/上的向导，在你的项目仓库中创建这样的分支，并且github还提供了多种模板供你选择：
@@ -58,6 +70,3 @@ $ bundle exec jekyll serve
 $ git clone https://github.com/vinitkumar/white-paper.git
 
 把克隆下来的文件拷贝到你自己的目录就行了，这样你就有一个现成的网站结构了：
-
-
-Edit By [MaHua](http://mahua.jser.me)
